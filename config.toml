@@ -4,6 +4,7 @@ title = "Anugerah's Digital Garden"
 theme = "archie"
 copyright = "© Anugerah"
 
+summaryLength= 20
 customcss = ["css/main.css","css/dark.css"]
 
 [params]
