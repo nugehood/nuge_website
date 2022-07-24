@@ -12,7 +12,9 @@ date: 2022-07-24T15:08:11+08:00
   width: 150px;
   height: 150px;
   object-fit: cover;
-  border-radius: 50%;">
+  border-radius: 50%;display: block;
+  margin-left: auto;
+  margin-right: auto;">
   <figcaption style="text-align: center;"><b>Anugerah</b><figcaption>
   <figcaption style="text-align: center;"><i>English Student</i><figcaption>
   </figure>
