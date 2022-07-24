@@ -31,14 +31,12 @@ My name is ***Anugerah*** and I am a college student from ***Lambung Mangkurat**
 ---
 
 ## Education
-+ **Sekolah Dasar Negara Alalak Tengah 1**
-+ **Sekolah Menengah Pertama 13**
-+ **Sekolah Menengah Vokasi 4**
-+ **Lambung Mangkurat University** (***2021***)
++ **Vocational High School 4** *2018 - 2020*
++ **Lambung Mangkurat University** *2021 - current*
 
 ---
 ## Experiences
-+ **UMKM Lambung Mangkurat Debate Society**
++ **Lambung Mangkurat Debate Society**
   + *Member of Media and Design Division*
 + **Kalimantan Open Debate 2022 Event**
   + *Coordinator of Publication and Documentation Division*
@@ -70,5 +68,9 @@ My name is ***Anugerah*** and I am a college student from ***Lambung Mangkurat**
 - **Office**
 - **LibreOffice**
 
+## Portfolio
+- [My artwork](https://www.instagram.com/brflook/)
+- [My games](https://dandeliongaames.itch.io/)
+- [Videos](https://www.youtube.com/c/CrunchyPie)
 ---
 > # Thanks Y'all!

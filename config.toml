@@ -35,3 +35,8 @@ customcss = "css/main.css"
   name = "Tags"
   url = "/tags/"
   weight = 4
+
+  [[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 5
