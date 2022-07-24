@@ -14,6 +14,11 @@ customcss = "css/main.css"
   name= "Instagram"
   icon= "instagram"
   url= "https://www.instagram.com/brflook/"
+  
+[[params.social]]
+  name= "Email"
+  icon= "mail"
+  url= "mailto:nugehoodg@gmail.com"
 
 # Main menu Items
 [[menu.main]]
