@@ -2,7 +2,9 @@ baseURL = "https://zesty-baklava-d1dd11.netlify.app/"
 languageCode = "en-us"
 title = "Anugerah's Digital Garden"
 theme = "archie"
-copyright = "© Anugerah"
+copyright = " Anugerah"
+
+enableRSS = true
 
 summaryLength= 20
 customcss = "css/main.css"

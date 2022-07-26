@@ -68,9 +68,13 @@ My name is ***Anugerah*** and I am a college student from ***Lambung Mangkurat**
 - **Office**
 - **LibreOffice**
 
+---
 ## Portfolio
 - [My artwork](https://www.instagram.com/brflook/)
 - [My games](https://dandeliongaames.itch.io/)
 - [Videos](https://www.youtube.com/c/CrunchyPie)
+
 ---
+# Websites
+
 > # Thanks Y'all!
