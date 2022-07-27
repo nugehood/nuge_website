@@ -27,22 +27,21 @@ My name is ***Anugerah*** and I am a college student from ***Lambung Mangkurat**
 
 **NICE TO MEET YOU!**
 
-
 ---
 
-## Education
+## Education 🎓
 + **Vocational High School 4** *2018 - 2020*
 + **Lambung Mangkurat University** *2021 - current*
 
 ---
-## Experiences
+## Experiences 💼
 + **Lambung Mangkurat Debate Society**
   + *Member of Media and Design Division*
 + **Kalimantan Open Debate 2022 Event**
   + *Coordinator of Publication and Documentation Division*
 
 ---
-## Experties
+## Experties 💡
 - **Advance English Language Proficiency**
   - *Writing*
   - *Speaking*
@@ -56,7 +55,7 @@ My name is ***Anugerah*** and I am a college student from ***Lambung Mangkurat**
   - *Promotion*
 
 ---
-### Technical Experties
+### Technical Experties ⚙️
 - **Adobe Photoshop**
 - **LaTex**
 - **HTML**
@@ -69,12 +68,10 @@ My name is ***Anugerah*** and I am a college student from ***Lambung Mangkurat**
 - **LibreOffice**
 
 ---
-## Portfolio
+## Portfolio 🎨
 - [My artwork](https://www.instagram.com/brflook/)
 - [My games](https://dandeliongaames.itch.io/)
 - [Videos](https://www.youtube.com/c/CrunchyPie)
 
 ---
-# Websites
-
 > # Thanks Y'all!
