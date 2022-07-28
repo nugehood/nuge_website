@@ -15,3 +15,7 @@ Those are just the main and obvious purpose of why people use **Digital Garden**
 ---
 > # Further Reading
 > - [A Brief History & Ethos of the Digital Garden 🔗](https://maggieappleton.com/garden-history)
+
+---
+# Share Your Thoughts
+{{< chat digital >}} 

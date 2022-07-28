@@ -101,3 +101,7 @@ With that much customization and a powerful feature, it’s a no-brainer to pick
 ---
 ## Conlusion
 There are so many tools out there that could help you with your college/university life, and tasks, but these are some of those that I would argue you can find on the internet or by the recommendation from your friend. This is been ***Anugerah***, and I'm signing off. **Thank you for reading!**
+
+---
+# Share Your Thoughts
+{{< chat softwarehelp >}} 

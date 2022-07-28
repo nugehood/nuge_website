@@ -25,3 +25,7 @@ I'm just a red-pilled leftist, who hates the **industrial society**.
 <img src="/img/doomer.jpg" width="100px">
 
 {{< /rawhtml >}}
+
+---
+# Share Your Thoughts
+{{< chat monetize >}} 

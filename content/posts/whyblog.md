@@ -51,3 +51,7 @@ Down here I will put some useful resources to learn about [**HUGO**](https://goh
 > # Further Reading
 > - [Getting Started With Hugo | FREE COURSE 🔗](https://www.youtube.com/watch?v=hjD9jTi_DQ4&t=2575s)
 > - [Get Started on Hugo](https://gohugo.io/getting-started/)
+
+---
+# Share Your Thoughts
+{{< chat whyblog >}} 
