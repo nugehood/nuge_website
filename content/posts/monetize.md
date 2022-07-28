@@ -3,6 +3,7 @@ title: "Am I going to make any money on my 'BLOG'?"
 date: 2022-07-27T20:59:54+08:00
 tags: [Economy, Freedom, Capitalism, Publishing, Writing]
 draft: false
+pin: true
 ---
 
 I'm going to be quick and straight to the point!

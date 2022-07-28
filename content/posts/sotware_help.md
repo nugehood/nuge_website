@@ -5,16 +5,16 @@ tags: [Software, Tools, College]
 draft: false
 ---
 
-# The Importance of Tools
+## The Importance of Tools
 The difference between the **nowadays** and **past** academic era is that we have more tools to make our day-to-day college life easier, everything is now digital, and many tools you can acquire and use for the low-low price of **FREE**.
 
 As of writing, I am now going to be attending the third semester this year. Oh how I wish I'd known these tools sooner, because the first two semesters were a big **MESS**. For me it was management, sure I did some cleaning and organizing from folder to folder based on the class I take, so I could find the expected files easily.
 
 I need something more than just organizing set files, so I found this list ***software*** that'll guide me, and possibly you too! By the way, this list is not in a particular order, there's no "the best" software, even though you saw them first or last, each software has its functionality and purpose.
 
-# Software
+## Software
 
-## 1. Espanso
+### Espanso
 
 I found this software because I was having problem with my other software by mistake. ***Espanso*** is the kind of software they called "*text expander*", and I think it really does fit the description. 
 
@@ -28,7 +28,7 @@ Remember when you're trying to **write** paper and you couldn't remember that on
 
 Well my friend, say hello to ***Espanso***! As I was saying, this software helps you to **expand** your **text**, you can create some kind of code or a **trigger** word that could be replaced with any word you like, and you can also create a **trigger** to paste an *image* from your **directory**!
 
-### Example
+#### Example
 ```
   - trigger: ";myname" → Typed text
     replace: "Anugerah" → Replaced by this
@@ -39,7 +39,7 @@ Well my friend, say hello to ***Espanso***! As I was saying, this software helps
 **Download link**: [***Espanso***](https://espanso.org/)
 
 ---
-## 2. Zotero
+### Zotero
 I know that some of you already know about this piece of software, for ***academia*** students this is a must! Writing papers can be a real hassle if you don't know how to automate some of the basic nuisance, like adding **citations** and **bibliography**.
 
 {{< rawhtml >}}
@@ -64,7 +64,7 @@ With the new version of **Zotero** there's a built-in PDF reader that you could 
 **Download link**: [***Zotero***](https://www.zotero.org/)
 
 ---
-## 3. Raindrop.io
+### Raindrop.io
 Have you ever used the **bookmark** function on your web browser? Do you want to organize each and one of your bookmark like this?
 
 {{< rawhtml >}}
@@ -80,7 +80,7 @@ So each time you're thinking of organizing your online article, make sure to che
 **Download link**: [***Raindrop.io***](https://raindrop.io/)
 
 ---
-## 4. Obsidian
+### Obsidian
 Last but not least, my favorite piece of software! When it comes to writing down and storing information or as I like to call it **Note-taking!**. Many people prefferd to use paper and their own methods of note-taking, but for me, writing down information with pen & papers takes time, and for a student like me, I need to store pool of information as quickly as possible with little time I have.
 
 **Obsidian** is the answer to that. Obsidian uses the **Markdown** file to store our writing, the link back feature (*referencing notes from one to another*) fully customizable interface, and community plugins is why I use it.
@@ -99,5 +99,5 @@ With that much customization and a powerful feature, it’s a no-brainer to pick
 **Download link**: [***Obsidian***](https://obsidian.md/)
 
 ---
-# Conlusion
+## Conlusion
 There are so many tools out there that could help you with your college/university life, and tasks, but these are some of those that I would argue you can find on the internet or by the recommendation from your friend. This is been ***Anugerah***, and I'm signing off. **Thank you for reading!**

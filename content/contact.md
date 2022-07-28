@@ -8,8 +8,8 @@ It seems like you are interested in me or my works. Find more about me and my co
 
 <table>
   <tr>
-    <th style="background-color: black;color: white;border-color: black;">Name</th>
-    <th style="background-color: black;color: white;border-color: black;">Social Media</th>
+    <th>Name</th>
+    <th>Social Media</th>
   </tr>
   <tr>
     <td>Instagram</td>
