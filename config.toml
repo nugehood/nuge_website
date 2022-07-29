@@ -1,6 +1,6 @@
 baseURL = "https://anugerah.netlify.app/"
 languageCode = "en-us"
-title = "Anugerah's Digital Garden"
+title = "🏡 Anugerah's Digital Garden 🏡"
 theme = "archie"
 copyright = " Anugerah"
 
@@ -54,3 +54,5 @@ customcss = "css/main.css"
   name = "Contact"
   url = "/contact"
   weight = 5
+
+  
