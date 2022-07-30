@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "🏡 Anugerah's Digital Garden 🏡"
 theme = "archie"
 copyright = " Anugerah"
+[author]
+  name = 'Anugerah'
 
 enableRSS = true
 
@@ -28,6 +30,12 @@ customcss = "css/main.css"
   name= "Email"
   icon= "mail"
   url= "mailto:nugehoodg@gmail.com"
+
+[[params.social]]
+  name= "GitHub"
+  icon= "github"
+  url= "https://github.com/nugehood"
+
 
 # Main menu Items
 [[menu.main]]
