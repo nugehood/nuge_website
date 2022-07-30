@@ -3,13 +3,10 @@ languageCode = "en-us"
 title = "🏡 Anugerah's Digital Garden 🏡"
 theme = "archie"
 copyright = " Anugerah"
-[author]
-  name = 'Anugerah'
 
-enableRSS = true
-
-summaryLength= 20
 customcss = "css/main.css"
+
+summaryLength= 5
 
 [markup]
   [markup.tableOfContents]
