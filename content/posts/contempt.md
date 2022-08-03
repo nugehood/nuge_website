@@ -1,7 +1,7 @@
 ---
 title: "Contemplating Digitally"
 date: 2022-08-02T08:57:49+08:00
-draft: false
+draft: true
 toc: true
 ---
 
