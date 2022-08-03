@@ -33,6 +33,10 @@ summaryLength= 5
   icon= "github"
   url= "https://github.com/nugehood"
 
+[[params.social]]
+  name= "Rss"
+  icon= "rss"
+  url= "/index.xml"
 
 # Main menu Items
 [[menu.main]]
