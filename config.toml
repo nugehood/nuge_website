@@ -63,9 +63,3 @@ summaryLength= 5
   name = "Contact"
   url = "/contact"
   weight = 5
-
-[[menu.main]]
-  name = "Error"
-  url = "/err"
-  weight = 6
-  
