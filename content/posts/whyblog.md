@@ -8,6 +8,7 @@ draft: false
 
 You want to write but don't know where and how? Or do you want to store your writing so you can look them up even though it is not saved directly to your devices? Well, my solution to the problems I had with writing can be solved by just one thing.
 
+---
 ## Blog
 A **Blog** is where people can write and post their writing about anything, to the ***internet!*** On the early days of the internet, **Blog** was the king, and queen, it was the hot thing all around, a place where you can speak and share your pieces of mind or experiences. Many services were given to people for free, but it had limitation in terms of feature and looks/style.
 

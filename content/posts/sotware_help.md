@@ -5,6 +5,7 @@ tags: [Software, Tools, College]
 draft: false
 ---
 
+---
 ## The Importance of Tools
 The difference between the **nowadays** and **past** academic era is that we have more tools to make our day-to-day college life easier, everything is now digital, and many tools you can acquire and use for the low-low price of **FREE**.
 
@@ -12,6 +13,7 @@ As of writing, I am now going to be attending the third semester this year. Oh h
 
 I need something more than just organizing set files, so I found this list ***software*** that'll guide me, and possibly you too! By the way, this list is not in a particular order, there's no "the best" software, even though you saw them first or last, each software has its functionality and purpose.
 
+---
 ## Software
 
 ### Espanso

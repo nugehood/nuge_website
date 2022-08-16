@@ -15,15 +15,15 @@ date: 2022-07-24T15:08:11+08:00
   border-radius: 50%;display: block;
   margin-left: auto;
   margin-right: auto;">
-  <figcaption style="text-align: center;"><b>Anugerah</b><figcaption>
-  <figcaption style="text-align: center;"><i>English Student</i><figcaption>
+  <figcaption style="text-align: center;"><b style="font-family: 'et-book-roman-old-style-figures', serif;">Anugerah</b><figcaption>
+  <figcaption style="text-align: center;"><i style="font-family: 'et-book-roman-old-style-figures', serif;">English Student</i><figcaption>
   </figure>
 {{< /rawhtml >}}
 
 **Hello there!** How are you doing? 
 
 
-My name is **Anugerah** and I am a college student from **Lambung Mangkurat** university, **Banjarmasin**, studying in the **English Language Education Study Program**. Before going into the university studying **English Language**, I was in vocational high school studying **Software Engineering**, that explained a lot about how I'm used to **coding** or **programming**. 
+My name is **Anugerah** and I am a college student from The *Lambung Mangkurat University*, **Banjarmasin**, studying in the *English Language Education Study Program*. Before going into the university studying **English Language**, I was in vocational high school studying **Software Engineering**, that explained a lot about how I'm used to *coding* or *programming*. 
 
 **NICE TO MEET YOU!**
 
