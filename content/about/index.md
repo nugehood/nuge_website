@@ -23,7 +23,7 @@ date: 2022-07-24T15:08:11+08:00
 **Hello there!** How are you doing? 
 
 
-My name is ***Anugerah*** and I am a college student from ***Lambung Mangkurat*** university, ***Banjarmasin***, studying in the ***English Language Education Study Program***. Before going into the university studying ***English Language***, I was in vocational high school studying ***Software Engineering***, that explained a lot about how I'm used to **coding** or **programming**. 
+My name is **Anugerah** and I am a college student from **Lambung Mangkurat** university, **Banjarmasin**, studying in the **English Language Education Study Program**. Before going into the university studying **English Language**, I was in vocational high school studying **Software Engineering**, that explained a lot about how I'm used to **coding** or **programming**. 
 
 **NICE TO MEET YOU!**
 
