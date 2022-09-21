@@ -1,5 +1,5 @@
 ---
-title: "Happiness is a Warm Gun (I)"
+title: "The King (I)"
 date: 2022-08-12T13:20:01+08:00
 draft: false
 tags: [Short, Story, Fantasy, Fiction]
