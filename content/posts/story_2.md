@@ -2,6 +2,7 @@
 title: "The King (II)"
 date: 2022-10-13T11:49:01+08:00
 draft: false
+tags: [Short, Story, Fantasy, Fiction]
 ---
 
 
