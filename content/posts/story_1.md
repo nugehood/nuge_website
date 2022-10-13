@@ -7,17 +7,26 @@ tags: [Short, Story, Fantasy, Fiction]
 
 {{< rawhtml >}}
 <h1 style="text-align: center;" class="story">I</h1>
-<p style="text-align: center; font-style: italic;" class="story">In which the kingdom cried</p>
+<p style="text-align: center; font-style: italic;" class="story">[Enter The King]</p>
 
 
-<p class="story">As I type my soul from the keyboard, I hadn't noticed the kingdom I was building. Huge was the kingdom, big was the people, and there lived a king whose life was smaller than the kingdom of the people. Each day, morning after morning, day by day, the king felt bored with his own people, and he want to make a change. The change was very sudden, the people were shaken, for whoever was feeling happy and showing their happiness publicly, will be executed by hanging.
+<p class="story">
+As I type my soul from the keyboard, I hadn't noticed the kingdom I was building. Huge was the kingdom, big was the people, and there lived a king whose life was smaller than the kingdom of the people. Each day, morning after morning, day by day, the king felt bored with his own people, and he want to make a change. The change was very sudden, the people were shaken, for whoever was feeling happy and showing their happiness publicly, will be executed by hanging.
+</p>
 
+<p class="story">
 The king was very happy indeed... He thought that he could hold in his happiness, he likes seeing people with a frown on their faces, but it seems like he can't show his happiness outside of the castle. There be days, and soon-to-be months, of him, just staying in his sumptuous room, waiting, and waiting. What was he waiting for? Perhaps news? Yes, it was the news! The news of the people that were recently hanged. When the news came in, he close the door to his room and stared at himself in the mirror smiling...
+</p>
 
+<p class="story">
 He looked upon the scroll which beheld the news that was written in ink closer to his face, he smells the ink, and he felt the need to smile once more... He had not been outside for 3 months, and one day, the kingdom was quiet. The tramples of the horses and the crow of the roosters are never to be heard, and for the worst, the news was never told.
+</p>
 
+<p class="story">
 What happened he wondered, are the people still sleeping? He wants to go outside and see what happened, but consequently, he was afraid to miss the news, he was thinking to himself if he'd gone out, was that the only thing that was of concern for him? There's another! Happiness, smile... He was afraid that he will get caught blatantly smiling by the people, and then the people might turn on him and overthrow the kingdom.
+</p>
 
+<p class="story">
 After going back and forth, he'd decided to go outside. He slowly opens his door while still in a sleeping robe, the creaking of the door echoes through the empty hallway, ghostly... He peeks through with his head, the castle was filled with morning light, but nobody seems to be there. He wandered through the past and empty castle, it was eerie, and the only things he could hear were his own footsteps. He was amazed, he shouted, and he stopped at the big gate that leads outside of the castle and to the people.
 </p>
 
