@@ -63,3 +63,8 @@ summaryLength= 5
   name = "Contact"
   url = "/contact"
   weight = 5
+
+  [[menu.main]]
+  name = "Arts"
+  url = "/igGallery"
+  weight = 5
