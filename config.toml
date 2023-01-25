@@ -1,6 +1,6 @@
 baseURL = "https://anugerah.netlify.app/"
 languageCode = "en-us"
-title = "Anugerah's Digital Garden"
+title = "▞ Anugerah ▚"
 theme = "archie"
 copyright = " Anugerah"
 
@@ -51,20 +51,20 @@ summaryLength= 5
 
 [[menu.main]]
   name = "About"
-  url = "/about" 
+  url = "/about"
   weight = 3
 
 [[menu.main]]
   name = "Tags"
   url = "/tags/"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "/contact"
-  weight = 5
+  weight = 6
 
-  [[menu.main]]
-  name = "Arts"
-  url = "/igGallery"
-  weight = 5
+[[menu.main]]
+  name = "Work"
+  url = "/work"
+  weight = 4

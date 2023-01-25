@@ -28,6 +28,8 @@ My name is **Anugerah** and I am a college student from The *Lambung Mangkurat U
 **NICE TO MEET YOU!**
 
 ---
+## [Portfolio](/work) 🎨
+---
 
 ## Education 🎓
 + **Vocational High School 4** *2018 - 2020*
@@ -67,11 +69,7 @@ My name is **Anugerah** and I am a college student from The *Lambung Mangkurat U
 - **Office**
 - **LibreOffice**
 
----
-## Portfolio 🎨
-- [My artwork](https://www.instagram.com/brflook/)
-- [My games](https://dandeliongaames.itch.io/)
-- [Videos](https://www.youtube.com/c/CrunchyPie)
+
 
 ---
 > # Thanks Y'all!
