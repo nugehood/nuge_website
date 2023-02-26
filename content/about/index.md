@@ -16,7 +16,7 @@ date: 2022-07-24T15:08:11+08:00
   margin-left: auto;
   margin-right: auto;">
   <figcaption style="text-align: center;"><b style="font-family: 'et-book-roman-old-style-figures', serif;">Anugerah</b><figcaption>
-  <figcaption style="text-align: center;"><i style="font-family: 'et-book-roman-old-style-figures', serif;">English Student</i><figcaption>
+  <figcaption style="text-align: center;"><i style="font-family: 'et-book-roman-old-style-figures', serif;">Graphic Designer & Video Editor</i><figcaption>
   </figure>
 {{< /rawhtml >}}
 
@@ -24,6 +24,8 @@ date: 2022-07-24T15:08:11+08:00
 
 
 My name is **Anugerah** and I am a college student from The *Lambung Mangkurat University*, **Banjarmasin**, studying in the *English Language Education Study Program*. Before going into the university studying **English Language**, I was in vocational high school studying **Software Engineering**, that explained a lot about how I'm used to *coding* or *programming*. 
+
+I do **Graphic Design** and **Video Editing**.
 
 **NICE TO MEET YOU!**
 

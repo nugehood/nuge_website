@@ -6,7 +6,7 @@ toc: true
 ---
 
 ## Arts
-It is mostly taken from my Instagram profile [@brflook](https://www.instagram.com/brflook/)
+The preview is down, meanwhile go to my Instagram please, sorry for the inconvenience🙏 [@brflook](https://www.instagram.com/brflook/)
 {{< instagram-advanced username="brflook" >}}
 
 ---
