@@ -35,7 +35,9 @@ I do **Graphic Design** and **Video Editing**.
 
 ## Education 🎓
 + **Vocational High School 4** *2018 - 2020*
+  + *Software Engineering*
 + **Lambung Mangkurat University** *2021 - current*
+  + *English Language Study Program*
 
 ---
 ## Experiences 💼
