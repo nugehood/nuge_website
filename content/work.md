@@ -5,12 +5,12 @@ draft: false
 toc: true
 ---
 
-## Arts
+## 🎨 Arts 
 The preview is down, meanwhile go to my Instagram please, sorry for the inconvenience🙏 [@brflook](https://www.instagram.com/brflook/)
 {{< instagram-advanced username="brflook" >}}
 
 ---
-## Videos & Movies
+## 🎥 Videos & Movies
 Videos and movies could be found on these channels:
 1. [Crunchy_Pie](https://www.youtube.com/channel/UC9fm0Qk3WUMCkONVAflB87g)
 2. [Anugerah](https://www.youtube.com/@anugerah8773)
@@ -36,10 +36,12 @@ image="uploads/ForlornThumb.jpg" >}}
 
 ---
 
-## Games
+## 🎮 Games
 I used to make tons of games, and I was able to publish some of them at [itch.io](https://dandeliongaames.itch.io/).
 
-## Website
+---
+
+## 🌐 Website
 I helped built and launched a website for an organization I was in [Check it out!](https://lmdsulm.netlify.app/)
 
 ---
