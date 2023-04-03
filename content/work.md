@@ -50,7 +50,7 @@ I helped built and launched a website for an organization I was in [Check it out
 I built softwares that you could download  here:
 ### 🖥️ SALI (Simari Auto Log In) 
 An application that helps Lambung Mangkurat University student to easily login to the SIMARI website without opening the browser first.
-[Download Setup](https://anonfiles.com/Y0w4Abh4z6/SALI_SETUP_exe)
+[Download at GitHub](https://github.com/nugehood/SALI)
 
 
 **Note that it will detect as a virus or malware, it is called a false positive. Because I haven't register my software yet to be scanned, it detect it as that. As long as you turn off your antivirus or Windows Defender before installing, it will be alright!**
