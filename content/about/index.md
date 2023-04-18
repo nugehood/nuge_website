@@ -74,7 +74,7 @@ I do **Graphic Design** and **Video Editing**.
 - **LibreOffice**
 
 
-[Download resume in PDF!](/Anugerah_Resume.pdf)
+[Download resume in PDF!](https://rxresu.me/nugehood/anugerah)
 
 ---
 > # Thanks Y'all!
