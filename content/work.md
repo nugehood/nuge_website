@@ -5,6 +5,14 @@ draft: false
 toc: true
 ---
 
+It is **IMPORTANT** to note, that the content in this page will not be updated regularly. New contents like designs, videos and etc, can be found on my personal accounts:
+1. Youtube:
+   1. [Crunchy_Pie](https://www.youtube.com/channel/UC9fm0Qk3WUMCkONVAflB87g)
+   2. [Anugerah](https://www.youtube.com/@anugerah8773)
+3. Instagram
+   1.  [@brflook](https://www.instagram.com/brflook/)
+
+---
 ## 🎨 Arts 
 The preview is down, meanwhile go to my Instagram please, sorry for the inconvenience🙏 [@brflook](https://www.instagram.com/brflook/)
 {{< instagram-advanced username="brflook" >}}
