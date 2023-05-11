@@ -1,9 +1,9 @@
 baseURL = "https://anugerah.netlify.app/"
 languageCode = "en-us"
 title = "▞ Anugerah ▚"
-theme = "archie"
+theme = ["hugo-embed-pdf-shortcode", "archie"]
+enableInlineShortcodes = true
 copyright = " Anugerah"
-
 customcss = "css/main.css"
 
 summaryLength= 5
