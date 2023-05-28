@@ -101,15 +101,15 @@ Signal is a privacy-focused messaging app. It is literally one of the best alter
 
 ### Tools/Programs for Desktop
 1. [Libreoffice](https://www.libreoffice.org/) (*Alternative to MSOffice*)
-2. BleachBit (*Alternative to Ccleaner*)
-3. OBS (*Open-Source recording software*)
-4. GIMP (*Alternative to Photoshop, Ai. Extensive with plugins*)
-5. TiddlyWiki (*A personal wiki for creating your own private notes*)
-6. Farbar Recovery Tool (*Indepth malware remover*)
-7. Win10 & Wind11 Debloater (*Removes unecessary things that slows down your computer*)
+2. [BleachBit](https://www.bleachbit.org/) (*Alternative to Ccleaner*)
+3. [OBS]https://obsproject.com/() (*Open-Source recording software*)
+4. [GIMP](https://www.gimp.org/) (*Alternative to Photoshop, Ai. Extensive with plugins*)
+5. [TiddlyWiki](https://tiddlywiki.com/) (*A personal wiki for creating your own private notes*)
+6. [Farbar Recovery Tool](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) (*Indepth malware remover*)
+7. Win10 & Wind11 [Debloater](https://github.com/LeDragoX/Win-Debloat-Tools) (*Removes unecessary things that slows down your computer*)
 
 ### Librewolf
-Librewolf is a fork of **Mozilla Firefox**, and it is made for privacy. It is so important that I gave it its own chapter. When you're using **Chrome**, you're privacy is gone right away, you know it's **Google**, smh. **Firefox**? Yes, that too. When you use Firefox, it'll give you Google as its default search engine, as if it's not obvious, and it also has this annoying third parties thingy called [Pocket]. Librewolf removes all of that in return for your privacy.
+[Librewolf](https://librewolf.net/) is a fork of **Mozilla Firefox**, and it is made for privacy. It is so important that I gave it its own chapter. When you're using **Chrome**, you're privacy is gone right away, you know it's **Google**, smh. **Firefox**? Yes, that too. When you use Firefox, it'll give you Google as its default search engine, as if it's not obvious, and it also has this annoying third parties thingy called [Pocket]. Librewolf removes all of that in return for your privacy.
 
 Some of the ways of improving its users' privacy are:
 
