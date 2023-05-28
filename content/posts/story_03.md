@@ -2,6 +2,7 @@
 title: "Internet Privacy is Important: A Brief Student's Guide on How to Overcome the Big Data Companies."
 date: 2023-05-28T17:30:44+08:00
 draft: false
+toc: true
 ---
 
 ## READ BEFORE INTERACTING WITH LINKS!
