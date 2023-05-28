@@ -8,7 +8,7 @@ toc: true
 ## READ BEFORE INTERACTING WITH LINKS!
 I wouldn't want you to risk getting tracked by companies, so please use these extensions on your browser before clicking to link that I provides here.
 
-[No Script](https://noscript.net/), [Privacy Badger](https://privacybadger.org/)
+[No Script](https://noscript.net/), [Privacy Badger](https://privacybadger.org/) & [uBlock Origin](https://ublockorigin.com/).
 
 ---
 This is the era of the Big Data Company. Companies that make millions of dollars every day. With all of that earnings, what do they want? They want full control of your data. How are they doing it? By tracking all of your activities on the internet. Not only that, they're invading your privacy, they're also trying to make your life miserable by basically giving you endless streams of content (e.g. **YouTube**, **TikTok**, **Instagram**, etc.).
