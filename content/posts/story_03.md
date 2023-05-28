@@ -102,7 +102,7 @@ Signal is a privacy-focused messaging app. It is literally one of the best alter
 ### Tools/Programs for Desktop
 1. [Libreoffice](https://www.libreoffice.org/) (*Alternative to MSOffice*)
 2. [BleachBit](https://www.bleachbit.org/) (*Alternative to Ccleaner*)
-3. [OBS]https://obsproject.com/() (*Open-Source recording software*)
+3. [OBS](https://obsproject.com/) (*Open-Source recording software*)
 4. [GIMP](https://www.gimp.org/) (*Alternative to Photoshop, Ai. Extensive with plugins*)
 5. [TiddlyWiki](https://tiddlywiki.com/) (*A personal wiki for creating your own private notes*)
 6. [Farbar Recovery Tool](https://www.bleepingcomputer.com/download/farbar-recovery-scan-tool/) (*Indepth malware remover*)
