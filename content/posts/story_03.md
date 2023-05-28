@@ -86,7 +86,7 @@ This will be interesting because you'll be experiencing freedom and full control
 
 ### Alternatives to Popular Social Media
 1. [Invidious](https://invidious.io/) (*YouTube*, *Website*)
-Invidious is a YouTube alternative, you're essentially watching YouTube but using another client. It is a website, and you could watch YouTube free of ads and distractions, not only that, you'll be guaranteed privacy. YouTube has got so many disadvantages, it loads too fast, it collects your data, and it'll try to get you addicted by offering you new content, which resulted in an endless scrolling of content. With Invidious you don't need to log in using a Google account, or with any accounts to watch video! What if I want to get notifications from my subscribers? Well, you're in luck! There is a guide on how to import your YouTube subscriptions into Invidious, it is easy! By the way, you can still subscribe to other YouTube channels there.
+Invidious is a YouTube alternative, you're essentially watching YouTube but using another client. It is a website, and you could watch YouTube free of ads and distractions, not only that, you'll be guaranteed privacy. YouTube has got so many disadvantages, it loads too long, it collects your data, and it'll try to get you addicted by offering you new content, which resulted in an endless scrolling of content. With Invidious you don't need to log in using a Google account, or with any accounts to watch video! What if I want to get notifications from my subscribers? Well, you're in luck! There is a guide on how to import your YouTube subscriptions into Invidious, it is easy! By the way, you can still subscribe to other YouTube channels there.
 
 No more giving up your data to Google. You, 1. Google, 0.
 
@@ -109,7 +109,7 @@ Signal is a privacy-focused messaging app. It is literally one of the best alter
 7. Win10 & Wind11 [Debloater](https://github.com/LeDragoX/Win-Debloat-Tools) (*Removes unecessary things that slows down your computer*)
 
 ### Librewolf
-[Librewolf](https://librewolf.net/) is a fork of **Mozilla Firefox**, and it is made for privacy. It is so important that I gave it its own chapter. When you're using **Chrome**, you're privacy is gone right away, you know it's **Google**, smh. **Firefox**? Yes, that too. When you use Firefox, it'll give you Google as its default search engine, as if it's not obvious, and it also has this annoying third parties thingy called [Pocket]. Librewolf removes all of that in return for your privacy.
+[Librewolf](https://librewolf.net/) is a fork of **Mozilla Firefox**, and it is made for privacy. It is so important that I gave it its own chapter. When you're using **Chrome**, you're privacy is gone right away, you know it's **Google**, smh. **Firefox**? Yes, that too. When you use Firefox, it'll give you Google as its default search engine, as if it's not obvious, and it also has this annoying third parties thingy called [Pocket](https://getpocket.com/). Librewolf removes all of that in return for your privacy.
 
 Some of the ways of improving its users' privacy are:
 
@@ -149,5 +149,6 @@ I hope you will engulf and obsess yourself with your privacy because it is impor
 6. https://en.wikipedia.org/wiki/Procrastination
 7. https://repair.eu/news/apples-self-repair-programme-is-not-the-right-to-repair-we-need/
 8. https://searx.thegpm.org/
+9. https://www.reddit.com/r/privacy/wiki/index/
 
 {{< chat cactus-comments01 >}}
