@@ -3,6 +3,7 @@ title: "Internet Privacy is Important: A Brief Student's Guide on How to Overcom
 date: 2023-05-28T17:30:44+08:00
 draft: false
 toc: true
+tags: [technology, internet, privacy, security]
 ---
 
 ## READ BEFORE INTERACTING WITH LINKS!
@@ -42,7 +43,7 @@ That was a little historical story about the coming of the world wide web. From 
 
 
 ## Big Data Company
-We're not strangers when I say words like **Facebook**, **Meta**, **Instagram**, **WhatsApp**, **YouTube**, **TikTok**, and many other well-known companies. We call these companies, the big data company. They're called that because they are companies that store big data (***information***) about their users. These companies store bundles of our data and make money out of it by selling it to other third-party companies, even money is not enough for them. Power, absolute power over their consumers/users.
+We're not strangers when I say words like **Facebook**, **Instagram**, **WhatsApp**, **YouTube**, **TikTok**, and many other well-known companies. We call these companies, the big data company. They're called that because they are companies that store big data (***information***) about their users. These companies store bundles of our data and make money out of it by selling it to other third-party companies, even money is not enough for them. Power, absolute power over their consumers/users.
 > When we have a lot of money, we don't buy foods to replenish our hunger. It is much more than that.
 
 Willingly or unwillingly, your data is at risk, and your privacy is at risk! For "**FREE**" entertainment you just have to sell your data, your body to the company. Oh, you want to watch a video, we have to give you ads, because it'll keep our company running, and it'll also support the content creators. As if our data is not enough.
